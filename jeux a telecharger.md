@@ -9,10 +9,10 @@ in_menu: true
 Gluk 
 
 
-| Jeux de course | Jeux de combat | Jeux de gestion|
-|:------------------|:------------------|:----------------|
-|SuperTuxKart     |Hedge Wars            | The Battle for Wesnoth   |
-|PixelWheels  |Hikou no mizu  |  GEM |
+| Jeux de course | |Jeux de combat | |Jeux de gestion|
+|:------------------| |:------------------| |:----------------|
+|SuperTuxKart     | |Hedge Wars           | | The Battle for Wesnoth   |
+|PixelWheels  |Hikou no mizu  | |  GEM |
 
 
   <article class="framalibre-notice">
