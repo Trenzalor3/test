@@ -3,7 +3,7 @@ title: "Jeux à télécharger"
 order: 1
 in_menu: true
 ---
->Il n'y a pas d'activités car ceci est un test.
+>Tant qu'il y aura des jeux gratuits le monde se portera bien. "Moi"
 
 
 Gluk 
