@@ -7,3 +7,10 @@ in_menu: true
 
 
 Gluk 
+
+
+| Texte a gauche | Texte au milieu | Texte a droite|
+|:------------------|:------------------|:----------------|
+| Ce texte          | ce texte           | Ce texte        |
+| est aligné        | est                  | est aligné      |
+| à gauche         | centré             | à droite        | 
