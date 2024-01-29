@@ -9,15 +9,10 @@ in_menu: true
 Gluk 
 
 
-| Texte a gauche | Texte au milieu | Texte a droite|
+| Jeux de course | Jeux de combat | Jeux de gestion|
 |:------------------|:------------------|:----------------|
-| Ce texte          | ce texte           | Ce texte        |
-| est aligné        | est                  | est aligné      |
-| à gauche         | centré             | à droite         | 
-| Ce texte         | ce texte        | Ce texte        |
-| est aligné       | est             | est aligné      |
-| à gauche         | centré          | à droite        | 
-
+|SuperTuxKart     |Hedge Wars            | The Battle for Wesnoth   |
+|PixelWheels  |Hikou no mizu  |  GEM |
 
 
   <article class="framalibre-notice">
@@ -62,6 +57,53 @@ Gluk
       <div>
         <a href="https://framalibre.org/notices/hedgewars.html">Vers la notice Framalibre</a>
         <a href="http://hedgewars.org">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Hikou%20no%20mizu.png">
+    </div>
+    <div>
+      <h2>Hikou no mizu</h2>
+      <p>Hikou no mizu est un jeu de combat en 2D aux graphismes inspirés par l'animation japonaise.</p>
+      <div>
+        <a href="https://framalibre.org/notices/hikou-no-mizu.html">Vers la notice Framalibre</a>
+        <a href="https://hikounomizu.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/The%20Battle%20for%20Wesnoth.png">
+    </div>
+    <div>
+      <h2>The Battle for Wesnoth</h2>
+      <p>La Bataille pour Wesnoth est un jeu vidéo de stratégie au tour par tour dans un univers médiéval fantastique.</p>
+      <div>
+        <a href="https://framalibre.org/notices/the-battle-for-wesnoth.html">Vers la notice Framalibre</a>
+        <a href="http://wesnoth.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/GEM.png">
+    </div>
+    <div>
+      <h2>GEM</h2>
+      <p>GEM est un logiciel de gestion de collection de jeux rétro et des émulateurs associés.</p>
+      <div>
+        <a href="https://framalibre.org/notices/gem.html">Vers la notice Framalibre</a>
+        <a href="https://gem.tuxfamily.org/">Vers le site</a>
       </div>
     </div>
   </article> 
